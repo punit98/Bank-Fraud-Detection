@@ -1,6 +1,5 @@
 # Bank-Fraud-Detection
 Detencting Fraud Transactions in a bank. Code and empirical analysis.
-Portfolio 5[¶](#Portfolio-5)
 ============================
 
 1. Import the dataset and explore the data[¶](#1.-Import-the-dataset-and-explore-the-data)
